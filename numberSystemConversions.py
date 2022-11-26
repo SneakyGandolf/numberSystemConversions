@@ -112,7 +112,7 @@ def hexadecimalConversions(hexVal, desiredType):
 
 if __name__ == '__main__':
     
-    print("Greetings. I'm a Bitwise Conversion Bot who is ready to convert at your command.")
+    print("Greetings. I'm a Number System Conversion Bot who is ready to convert at your command.")
     #Would be dope to have a multiple choice selection instead the user having to type
     startType = input("Type the start type you need converted. ex) binary, decimal, etc.\n").lower()
     '''should be a try / except
