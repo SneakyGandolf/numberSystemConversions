@@ -89,20 +89,7 @@ def decimalConversions(deciNum, desiredType):
             # printing the remainder
             print(deciNum%8, end='')
     
-'''
-        result = ''
-        if deciNum == 0:
-            return result
-        decimalConversions(deciNum // 8, desiredType)
-        remainder = str(deciNum % 8)
-        print('fof', remainder, decimalConversions(deciNum // 8, desiredType))
-
-        result += remainder
-'''
     
-
-
-
 
 def hexadecimalConversions(hexVal, desiredType):
     
